@@ -47,7 +47,7 @@ Devolucao realizada com sucesso! > Devolucao feita fora do tempo limite. Aplicar
 
 ## 🚀 Status do Projeto
 
-✅ Concluído
+⚠️ Em desenvolvimento
 
 ## 👤 Autor
 
