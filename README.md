@@ -45,3 +45,11 @@ Digite o código do emprestimo: 50
 
 Devolucao realizada com sucesso! > Devolucao feita fora do tempo limite. Aplicar multa!
 
+## 🚀 Status do Projeto
+
+✅ Concluído
+
+## 👤 Autor
+
+Feito por **Matheus Felipe Claudino de Santana**  
+GitHub: https://github.com/matheuscsantana-arch
