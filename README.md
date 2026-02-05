@@ -35,7 +35,7 @@ gcc Sistema_de_gerenciamento_de_biblioteca.c -o biblioteca
 4. Na Devolução, o programa informará se o livro foi entregue no prazo ou se deve ser aplicada multa.
 5. Selecione a opção 8 para encerrar; o sistema salvará as alterações e criará os backups de segurança.
 
-## 💡 Exemplo de uso
+## 💡 Exemplo de uso (EM CONSTRUÇÃO)
 
 Ao realizar uma devolução após o prazo:
 
